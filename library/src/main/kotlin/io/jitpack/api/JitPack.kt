@@ -1,5 +1,5 @@
 class JitPack {
-  fn sayHello(): String {
+  fun sayHello(): String {
     return "hello world"
   }
 }
